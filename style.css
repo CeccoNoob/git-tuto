@@ -1,0 +1,31 @@
+h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 130px;
+    background-color: aqua;
+    background-size: auto;
+    text-size-adjust:initial;
+    margin-right:300px;
+    padding: 10px;
+    border: solid 3px red;
+    border-radius: 5px;
+    
+}
+#img1{
+    width: 500px;
+    float: left;
+}
+#box{
+    color: rgb(41, 205, 175);
+    width: 100px;
+    height: 100px;
+    position: relative;
+
+
+}
+body{
+    background-image: url(https://media-assets.wired.it/photos/65250e824bcd5558b1bf6903/16:9/w_1920%2Cc_limit/nascondere%2520immagini%2520testo%2520foto%2520ai.png);
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-attachment:fixed;
+    background-size: cover;
+}
